@@ -5,6 +5,3 @@ Simple
 Stupid
 
 Fast
-
-
-sd.
