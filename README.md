@@ -1,7 +1,13 @@
-Lightweight
+轻量、傻瓜、快速
 
-Simple
+特性列表
 
-Stupid
+登陆验证
+基于角色的权限管理
+基于AJAX的交互设计
+单表增删改查操作的高度封装
+使用方法
 
-Fast
+下载并解压
+执行db/db.sql 创建数据库结构和用户blabla....
+执行db/init.sql 创建菜单和角色
